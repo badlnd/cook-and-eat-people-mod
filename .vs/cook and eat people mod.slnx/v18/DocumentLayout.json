@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\cepminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\cepminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\itembehaviours\\flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\itembehaviours\\flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\cepmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\cepmbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\cepmassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\cepmassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\unityassetmanager\\assetbundleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\unityassetmanager\\assetbundleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmcore\\itembehaviours\\flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmcore\\itembehaviours\\flamethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmloggingutils\\loggerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmloggingutils\\loggerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\gamepatches\\burnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\gamepatches\\burnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\cepmloggingutils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|solutionrelative:cook and eat people mod\\cepmloggingutils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFF92D5-9622-9B6B-E0A4-E3D6331FF020}|cook and eat people mod\\LC.CEPM.csproj|c:\\users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\lc.cepm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,92 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Flamethrower.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:55:03.463Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CEPMAssets.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\CEPMAssets.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\CEPMAssets.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\CEPMAssets.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\CEPMAssets.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T13:57:47.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssetBundleLoader.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\UnityAssetManager\\AssetBundleLoader.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\UnityAssetManager\\AssetBundleLoader.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\UnityAssetManager\\AssetBundleLoader.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\UnityAssetManager\\AssetBundleLoader.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwFoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T15:40:50.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "BurnPlayer.cs",
               "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\GamePatches\\BurnPlayer.cs",
               "RelativeDocumentMoniker": "cook and eat people mod\\GamePatches\\BurnPlayer.cs",
               "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\GamePatches\\BurnPlayer.cs",
               "RelativeToolTip": "cook and eat people mod\\GamePatches\\BurnPlayer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwFkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T11:43:39.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoggerUtils.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMLoggingUtils\\LoggerUtils.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMLoggingUtils\\LoggerUtils.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMLoggingUtils\\LoggerUtils.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMLoggingUtils\\LoggerUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T23:58:15.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CEPMInfo.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\CEPMInfo.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\CEPMInfo.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\CEPMInfo.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\CEPMInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T23:40:20.997Z",
+              "WhenOpened": "2026-01-19T17:21:19.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMLoggingUtils\\Logger.cs",
-              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMLoggingUtils\\Logger.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMLoggingUtils\\Logger.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMLoggingUtils\\Logger.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Flamethrower.cs",
+              "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
+              "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
+              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
+              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T23:40:16.365Z"
+              "WhenOpened": "2026-01-19T12:02:43.256Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,21 +62,26 @@
               "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\CEPMBase.cs",
               "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\CEPMBase.cs",
               "RelativeToolTip": "cook and eat people mod\\CEPMCore\\CEPMBase.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwEsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T23:35:48.935Z"
+              "WhenOpened": "2026-01-19T11:47:47.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "LC.CEPM.csproj",
               "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\LC.CEPM.csproj",
               "RelativeDocumentMoniker": "cook and eat people mod\\LC.CEPM.csproj",
               "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\LC.CEPM.csproj",
               "RelativeToolTip": "cook and eat people mod\\LC.CEPM.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-13T23:36:51.239Z"
+              "WhenOpened": "2026-01-18T23:14:55.705Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

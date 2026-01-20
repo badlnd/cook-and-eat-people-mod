@@ -1,4 +1,5 @@
-﻿using GameNetcodeStuff;
+﻿#define DEBUGVAR
+using GameNetcodeStuff;
 using HarmonyLib;
 using LC.CEPM.CEPMCore;
 using System;
@@ -12,7 +13,7 @@ using Logger = LC.CEPM.CEPMLoggingUtils.Logger;
 
 namespace LC.CEPM.GamePatches
 {
-    public class BurnPlayer : MonoBehaviour
+    public class BurnPlayer : MonoBehaviour 
     {
         private static Logger PlayerLogger = new Logger();
         static bool torching;
@@ -72,6 +73,7 @@ namespace LC.CEPM.GamePatches
         [HarmonyPostfix]
         static void upd_postfix(PlayerControllerB __instance)
         {
+#if DEBUGVAR
             if (InstanceIsLocal(__instance))
             {
                 if (Keyboard.current.tKey.wasPressedThisFrame && (!torching))
@@ -87,6 +89,7 @@ namespace LC.CEPM.GamePatches
                     }
                 }
             }
+#endif
         }
 
         // An IEnumerator is a function which can run on a separate thread.

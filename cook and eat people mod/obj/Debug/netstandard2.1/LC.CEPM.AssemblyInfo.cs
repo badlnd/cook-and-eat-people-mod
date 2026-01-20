@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC.CEPM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d801d912c46e2c01d5d8b59551757a23f7b30092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84f21ab3b21454b7850363136e6551dfbb14a4c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC.CEPM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC.CEPM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
