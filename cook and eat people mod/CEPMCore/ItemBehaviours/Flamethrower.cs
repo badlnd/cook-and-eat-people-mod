@@ -50,7 +50,7 @@ namespace LC.CEPM.CEPMCore.ItemBehaviours
             {
                 gasAudio.pitch = 1;
             }
-            Base.PropLogger.Log(inUse);
+            //Base.PropLogger.Log(inUse);
         }
 
         private IEnumerator DamageEntitiesOverTime()

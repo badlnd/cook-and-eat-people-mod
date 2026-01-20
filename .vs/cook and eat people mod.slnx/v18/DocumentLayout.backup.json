@@ -38,8 +38,7 @@
               "RelativeToolTip": "cook and eat people mod\\GamePatches\\BurnPlayer.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwFkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T17:21:19.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T17:21:19.406Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "Flamethrower.cs",
               "DocumentMoniker": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
               "RelativeDocumentMoniker": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\faye\\source\\repos\\cook-and-eat-people-mod\\cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs*",
+              "RelativeToolTip": "cook and eat people mod\\CEPMCore\\ItemBehaviours\\Flamethrower.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T12:02:43.256Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "cook and eat people mod\\CEPMCore\\CEPMBase.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAqwEsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T11:47:47.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T11:47:47.967Z"
             },
             {
               "$type": "Document",
@@ -78,10 +76,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-18T23:14:55.705Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
