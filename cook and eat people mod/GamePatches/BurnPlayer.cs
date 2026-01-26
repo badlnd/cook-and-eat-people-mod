@@ -1,4 +1,4 @@
-﻿#define DEBUGVAR
+﻿//#define DEBUGVAR
 using GameNetcodeStuff;
 using HarmonyLib;
 using LC.CEPM.CEPMCore;
